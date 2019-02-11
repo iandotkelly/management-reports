@@ -1,0 +1,21 @@
+{
+  "name": "management-reports",
+  "version": "1.0.0",
+  "description": "BitBrew Management Reports",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ian Kelly",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "form-data": "^2.3.3",
+    "inquirer": "^6.2.2",
+    "json2csv": "^4.3.3",
+    "progress": "^2.0.3"
+  },
+  "devDependencies": {
+    "eslint-config-node": "^4.0.0"
+  }
+}
