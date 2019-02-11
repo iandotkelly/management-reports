@@ -8,6 +8,7 @@ This application requires node.js version 8 or above.
 
 ```sh
 $ git clone git@github.com:iandotkelly/management-reports
+$ cd management-reports
 $ npm install
 ```
 
