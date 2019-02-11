@@ -1,6 +1,11 @@
 # BitBrew Platform Management Reports
 
-## Requirements
+## Features
+
+Currently this application will query the BitBrew production environment for all Tenants and devices and
+output a CSV file of all devices, with the enabled status and last-communicated time.
+
+## Dependencies
 
 This application requires node.js version 8 or above.
 
